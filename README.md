@@ -1,5 +1,3 @@
-# E-learning-Platform
-
 ## Introduction
 This repository contains the initial version of a simple HTML/CSS page designed for a course platform. The page serves as a basic layout for displaying course information and will be further developed into a full-fledged e-learning platform.
 
