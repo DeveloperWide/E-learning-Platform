@@ -21,7 +21,7 @@ To view the page, simply open the `index.html` file in a web browser.
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request with your enhancements.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Contact
 For any questions or feedback, please contact [Mahesh](mailto:maheshrana9520@gmail.com).
